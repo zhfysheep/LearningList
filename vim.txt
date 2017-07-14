@@ -1,0 +1,6 @@
+1. cscope
+cscope使用方法
+1) cscope -Rbq
+2) vim中命令行执行:cs add cscope.out
+3) cs command,like :cs f g func_name
+   :cs -h  means help
